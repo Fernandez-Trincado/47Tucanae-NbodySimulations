@@ -57,7 +57,7 @@ Acknowledgements
 ---
 
     The authors would like to thank the referee for a detailed and constructive report that helped us 
-    improve this paper. N-body simulatios data was kindly shared with us by Andrea Kunder. J.G.F-T is 
+    improve this paper. N-body simulations data was kindly shared with us by Andrea Kunder. J.G.F-T is 
     currently supported by Centre National d'Etudes Spatiales (CNES) through PhD grant 0101973 
     and the R\'egion de Franche-Comt\'e and by the French Programme National de Cosmologie et
     Galaxies (PNCG). E.M, and B.P acknowledge support from UNAM/PAPIIT grant IN105916. D.A.G.H was 
