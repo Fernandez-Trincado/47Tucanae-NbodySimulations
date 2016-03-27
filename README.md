@@ -18,7 +18,7 @@ Collaboration
 Status
 ---
 
-Scientific Paper in MNRAS Journal based on RAVE Data.
+Scientific Paper in `MNRAS Journal` based on RAVE Data.
 
 Abstract
 ---
