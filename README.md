@@ -13,7 +13,12 @@ Please let me know if you have any questions or suggestions: jfernandez@obs-besa
 Collaboration
 ---
 
-        A. C. Robin, C. Reyle, K. Vieira, M. Palmer, E. Moreno, O. Valenzuela, and B. Pichardo
+        A. C. Robin[1], C. Reyle[1], K. Vieira[2], M. Palmer[3], E. Moreno[4], O. Valenzuela[4], and B. Pichardo[4]
+        
+        [1] Institut Utinam, CNRS UMR 6213, Universit\'e de Franche-Comt\'e, OSU THETA Franche-Comt\'e-Bourgogne, Observatoire de Besan\c{c}on, BP 1615, 25010 Besan\c{c}on Cedex, France.
+        [2] Centro de Investigaciones de Astronom\'ia, AP 264, M\'erida 5101-A, Venezuela.
+        [3] Dept. d'Astronomia i Meteorologia, Institut de Ci\`{e}ncies del Cosmos, Universitat de Barcelona (IEEC-UB), Mart\'{i} Franqu\`{e}s 1,\\ E08028 Barcelona, Spain.
+        [4] Instituto de Astronom\'ia, Universidad Nacional Aut\'onoma de M\'exico, Apdo. Postal 70264, M\'exico D.F., 04510, Mexico.
 
 Status
 ---
