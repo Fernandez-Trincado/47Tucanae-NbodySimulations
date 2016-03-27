@@ -38,12 +38,22 @@ Galactic model
 Acknowledgements
 ---
 
-    The authors would like to thank the referee for a detailed and constructive report that helped us improve this paper.
-    Nbody simulatios data was kindly shared with us by Andrea Kunder. J.G.F-T is currently supported by Centre National d'Etudes Spatiales (CNES) through PhD grant 0101973 
-    and the R\'egion de Franche-Comt\'e and by the French Programme National de Cosmologie et Galaxies (PNCG). 
-    E.M, and B.P acknowledge support from UNAM/PAPIIT grant IN105916. D.A.G.H was funded by the 
-    Ram\'on y Cajal fellowship number RYC-2013-14182. Monte Carlo simulations were executed on computers from the Instituto de Astronom\'ia-UNAM, M\'exico.   
-    Funding for RAVE has been provided by: the Australian Astronomical Observatory,the Leibniz-Institut fuer Astrophysik Potsdam (AIP),the Australian National University, the Australian Research Council, the French National Research Agency, the German Research Foundation (SPP 1177 and SFB 881), the European Research Council (ERC-StG 240271 Galactica), the Istituto Nazionale di Astrofisica at Padova, the Johns Hopkins University, the National Science Foundation of the USA (AST-0908326),  the W. M. Keck foundation, the Macquarie University, the Netherlands Research School for Astronomy, the Natural Sciences and Engineering Research Council of Canada, the Slovenian Research Agency, the Swiss National Science Foundation,  the Science \& Technology Facilities Council of the UK, Opticon, Strasbourg Observatory and  the Universities of  Groningen, Heidelberg and Sydney.  The RAVE web site is at \url{http://www.rave-survey.org}
+    The authors would like to thank the referee for a detailed and constructive report that helped us 
+    improve this paper. N-body simulatios data was kindly shared with us by Andrea Kunder. J.G.F-T is 
+    currently supported by Centre National d'Etudes Spatiales (CNES) through PhD grant 0101973 
+    and the R\'egion de Franche-Comt\'e and by the French Programme National de Cosmologie et
+    Galaxies (PNCG). E.M, and B.P acknowledge support from UNAM/PAPIIT grant IN105916. D.A.G.H was 
+    funded by the Ram\'on y Cajal fellowship number RYC-2013-14182. Monte Carlo simulations were executed 
+    on computers from the Instituto de Astronom\'ia-UNAM, M\'exico.   
+    Funding for RAVE has been provided by: the Australian Astronomical Observatory,the Leibniz-Institut 
+    fuer Astrophysik Potsdam (AIP),the Australian National University, the Australian Research Council, 
+    the French National Research Agency, the German Research Foundation (SPP 1177 and SFB 881), the European 
+    Research Council (ERC-StG 240271 Galactica), the Istituto Nazionale di Astrofisica at Padova, the Johns 
+    Hopkins University, the National Science Foundation of the USA (AST-0908326),  the W. M. Keck foundation, 
+    the Macquarie University, the Netherlands Research School for Astronomy, the Natural Sciences and Engineering 
+    Research Council of Canada, the Slovenian Research Agency, the Swiss National Science Foundation,  the 
+    Science \& Technology Facilities Council of the UK, Opticon, Strasbourg Observatory and  the Universities of 
+    Groningen, Heidelberg and Sydney.  The RAVE web site is at \url{http://www.rave-survey.org}
     
     
 
