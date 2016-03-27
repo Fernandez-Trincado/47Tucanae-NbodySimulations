@@ -6,7 +6,9 @@ Tracking orbits with a Monte-Carlo approach: Close encounters involving RAVE sta
 Author
 ---
 
-J. G. Fernandez-Trincado
+**J. G. Fernandez-Trincado**
+
+Please let me know if you have any questions or suggestions: jfernandez@obs-besancon.fr and/or jfernandezt87@gmail.com
 
 Collaboration
 ---
