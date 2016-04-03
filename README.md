@@ -44,6 +44,8 @@ Abstract
         tidal radius during our simulations, is comparable to the escape rate for 47 Tucanae estimated to be about 
         14 stars per Myr.
 
+**Figure 1: Spatial projection of potentially cluster memberships from RAVE data**
+![Figure1](https://github.com/Fernandez-Trincado/47Tucanae-NbodySimulations/blob/master/Figure2.png)
 
 Galactic model
 ---
