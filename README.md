@@ -23,7 +23,9 @@ Collaboration
 Status
 ---
 
-Scientific Paper in `MNRAS Journal` based on RAVE Data.
+Scientific Paper in `MNRAS Journal` based on RAVE Data. Last update 2016 April 15
+
+You can access the paper [HERE](https://github.com/Fernandez-Trincado/47Tucanae-NbodySimulations/blob/master/MNRAS47Tucanae.pdf). Clip here for the PDF version.
 
 Abstract
 ---
@@ -45,15 +47,13 @@ Abstract
         14 stars per Myr.
 
 **Figure 1: Spatial projection of potentially cluster memberships from RAVE data**
-![Figure1](https://github.com/Fernandez-Trincado/47Tucanae-NbodySimulations/blob/master/Figure2.png)
+![Figure1]()
 
 Galactic model
 ---
 
   * **Model 1:** Axisymmetric model
-  * **Model 2:** Axisymmetric model + Prolate bar + Spiral Arms
-  * **Model 3:** Axisymmetric model + Boxy bar + Spiral Arms
-
+  * **Model 2:** Axisymmetric model + Prolate bar 
 
 Acknowledgements
 ---
