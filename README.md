@@ -47,7 +47,7 @@ Abstract
         14 stars per Myr.
 
 **Figure 1: Spatial projection of potentially cluster memberships from RAVE data**
-![Figure1](https://github.com/Fernandez-Trincado/47Tucanae-NbodySimulations/blob/master/Figure2.png)
+![Figure1](https://github.com/Fernandez-Trincado/47Tucanae-NbodySimulations/blob/master/Figures/Figure2.png)
 
 Galactic model
 ---
