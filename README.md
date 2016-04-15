@@ -1,4 +1,4 @@
-Tracking orbits with a Monte-Carlo approach: Close encounters involving RAVE stars beyond the 47 Tucanae tidal radius.
+Close encounters involving RAVE stars beyond the 47 Tucanae tidal radius.
 ---
 
 
